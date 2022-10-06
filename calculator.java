@@ -1,7 +1,4 @@
 
-Pinned by Bro Code
-Bro Code
-2 years ago
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
